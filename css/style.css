@@ -1,0 +1,40 @@
+div .head-two {
+    color: white;
+}  
+
+[class*="block"] {
+    color: red;
+}
+
+.block-two span {
+    color: yellow;
+}
+
+
+.o {
+    color: orange;
+}
+.p {
+    color: pink;
+}
+.b {
+    color: black;
+}
+.v {
+    color: violet;
+}
+.g {
+    color: gray;
+}
+
+.level-three>p {
+    color: yellowgreen;
+}
+
+#block-id {
+    color: green;
+}
+
+.footer {
+    color: turquoise;
+}
